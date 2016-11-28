@@ -1,0 +1,2 @@
+【两个list组成dict】
+new_dict = dict(zip(list_1,list_2))
